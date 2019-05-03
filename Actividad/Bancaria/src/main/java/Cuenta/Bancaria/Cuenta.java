@@ -11,7 +11,7 @@ public class Cuenta {
 	public Cuenta() {
 
 	}
-
+//Cambio con un comentario
 	public Cuenta(Cliente cliente, int id, int dinero, Banco nombre, Banco idBanco) {
 		super();
 		this.cliente = cliente;
